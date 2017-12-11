@@ -1,0 +1,45 @@
+body {
+   background-image: url("https://orig00.deviantart.net/5c1c/f/2011/150/2/6/trippy_gif_by_atillathehungarian-d3hlbn2.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+li {
+  font-family: 'Kanit', sans-serif;
+  font-size: 50px;
+  color: pink;
+}
+ 
+h1{
+font-family: 'Archivo Black', sans-serif;
+ font-size: 50px;
+  background-color: #37FDFC;
+  border-style: solid;
+  border-color: black;
+  border-width: 50px;
+}
+
+h2{
+  font-family: 'Kanit', sans-serif;
+  font-size: 50px;
+  
+}
+
+img {
+  display: inline;
+  padding: 10px 0px;
+}
+
+a{
+  color: black;
+  font-size: 45px;
+}
+
+div{
+  font-size: 30px;
+}
+
+div.classy {
+  border: double 12px black;
+  background-color: pink;
+}
